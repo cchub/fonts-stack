@@ -13,7 +13,7 @@ Poppins is only available in `700` weight
 Rubik is only available in `300` & `400`.
 
 
-##To Get Started
+## To Get Started
 Simply add the code below in the head of your HTML 
 
     <link rel="stylesheet" href="http://fonts.cchub.xyz/fonts.css" integrity="sha384-Q2pxT853PmKAFxZjo1IJRG7w7uhXPlHpr6v1QilQR7eTbwpzhUleXhsHB1bY1TVR" crossorigin="anonymous">
@@ -22,10 +22,10 @@ Then in your stylsheet, you can specify it in your stylesheet as:
 `font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Rubik", sans-serif;`
 `font-family: 'Poppins', sans-serif;`
 
-##Why? Just Why?
+## Why? Just Why?
 
 
-##Things to note
+## Things to note
 Rubik is a fall back font for -apple-system (Mac) & Segoe UI (Windows) in cases where they are not available. So your font declaration shoul:
 `font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Rubik", sans-serif;`
 
